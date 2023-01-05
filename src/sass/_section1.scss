@@ -1,0 +1,31 @@
+.sec-start {
+  background-image: url('../img/ipad.jpg');
+  background-size: cover;
+  width: 600px;
+  height: 400px;
+
+}
+
+.sec1-mid {
+  background-image: url('../img/banner1.jpg');
+  background-size: cover;
+  width: 300px;
+  height: 400px;
+}
+
+.sec1-end {
+  background-image: url('../img/banner2.jpg');
+  background-size: cover;
+  width: 300px;
+  height: 400px;
+}
+
+.sec1btn {
+  text-decoration: none;
+  background: #FDD700;
+  border: 2px solid #FDD700;
+  padding: 5px 15px;
+  border-radius: 15px;
+  color: #000;
+  list-style: none;
+}

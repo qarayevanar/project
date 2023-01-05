@@ -1,0 +1,275 @@
+.hed-inp {
+  width: 450px !important;
+  border: 2px solid #FDD700;
+  border-radius: 20px;
+}
+
+.hed-btn {
+  color: #000;
+  border-radius: 20px;
+  background: #FDD700;
+  border: 2px solid #FDD700;
+  padding: 5px 15px;
+}
+
+.log-btn {
+  text-decoration: none;
+  background: #FDD700;
+  border: 2px solid #FDD700;
+  padding: 5px 15px;
+  border-radius: 15px;
+  color: #000;
+  list-style: none;
+}
+
+.cart-btn {
+  text-decoration: none;
+  background: #FDD700;
+  border: 2px solid #FDD700;
+  padding: 7px 15px;
+  border-radius: 15px;
+  color: #000;
+  list-style: none;
+}
+
+.cart-btn:hover {
+  text-decoration: none;
+  background: white;
+  border: 2px solid #FDD700;
+  padding: 7px 15px;
+  border-radius: 15px;
+  color: #FDD700;
+  list-style: none;
+}
+
+.sec-start {
+  background-image: url("../img/ipad.jpg");
+  background-size: cover;
+  width: 600px;
+  height: 400px;
+}
+
+.sec1-mid {
+  background-image: url("../img/banner1.jpg");
+  background-size: cover;
+  width: 300px;
+  height: 400px;
+}
+
+.sec1-end {
+  background-image: url("../img/banner2.jpg");
+  background-size: cover;
+  width: 300px;
+  height: 400px;
+}
+
+.sec1btn {
+  text-decoration: none;
+  background: #FDD700;
+  border: 2px solid #FDD700;
+  padding: 5px 15px;
+  border-radius: 15px;
+  color: #000;
+  list-style: none;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+.sec2-main {
+  margin-top: 50px;
+}
+
+.sec2-div {
+  padding: 0;
+  margin: 0;
+}
+
+.h5 {
+  font-size: 25px;
+  border-bottom: 2px solid #059473;
+}
+
+.ul-btn {
+  list-style: none;
+  display: flex;
+}
+.ul-btn li {
+  margin-right: 5px;
+}
+.ul-btn li button {
+  border: none;
+  background: none;
+  font-weight: bold;
+}
+.ul-btn li button:hover {
+  color: #059473;
+  border-bottom: 2px solid #059473;
+}
+
+.link {
+  list-style: none;
+  border: none;
+  background: none;
+  font-weight: bold;
+  text-decoration: none;
+  color: #000;
+}
+
+.link:hover {
+  color: #059473;
+  border-bottom: 2px solid #059473;
+}
+
+.bgsec {
+  background-color: #FDD700;
+}
+.bgsec .input {
+  width: 450px;
+  padding: 8px 30px;
+  border-radius: 30px;
+  border: none;
+}
+.bgsec .button {
+  width: 120px;
+  padding: 8px 20px;
+  border: none;
+  background-color: #333333;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 30px;
+}
+
+.fp {
+  font-weight: bold;
+}
+
+.fp:hover {
+  color: #049372;
+}
+
+.fp {
+  font-weight: bold;
+}
+
+.fp:hover {
+  color: #FDD700;
+  transition: 1.1ms;
+}
+
+.contact-inp {
+  padding: 5px;
+  border-radius: 5px;
+  width: 300px;
+  border: 1px solid gray;
+}
+
+.contact-sub {
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+
+.contact-text {
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+
+.contact-btn {
+  background-color: #FDD700;
+  width: 152px;
+  height: 44px;
+  border: none;
+  border-radius: 30px;
+  font-weight: bold;
+}
+
+.formstyle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+  border: none;
+  border-bottom: 2px solid gray;
+}
+
+.inpass {
+  width: 309px;
+}
+
+.logbtn {
+  background-color: #FDD700;
+  width: 152px;
+  height: 44px;
+  border: none;
+  border-radius: 30px;
+  font-weight: bold;
+}
+
+.iconf {
+  width: 30px;
+  height: 30px;
+  background-color: #3F5A99;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+.iconf a {
+  color: #fff;
+}
+
+.icont {
+  width: 30px;
+  height: 30px;
+  background-color: #4B9FED;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+.icont a {
+  color: #fff;
+}
+
+.icong {
+  width: 30px;
+  height: 30px;
+  background-color: #D95242;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+.icong a {
+  color: #fff;
+}
+
+.login-inp {
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+
+.inplog {
+  width: 400px;
+}
+
+.about-btn {
+  text-decoration: none;
+  background: #FDD700;
+  border: 2px solid #FDD700;
+  padding: 8px 30px;
+  border-radius: 15px;
+  color: #000;
+  list-style: none;
+}/*# sourceMappingURL=style.css.map */
